@@ -1,2 +1,2 @@
 # Data-analytics
-Dashboard using Excel
+Excel using dashboard
